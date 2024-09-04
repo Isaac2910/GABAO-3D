@@ -1,0 +1,27 @@
+{
+  "name": "gabao-3d",
+  "version": "1.0.0",
+  "main": "nodemon",
+  "type": "module",
+  "scripts": {
+    "start": "dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isaac2910/GABAO-3D.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isaac2910/GABAO-3D/issues"
+  },
+  "homepage": "https://github.com/Isaac2910/GABAO-3D#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
